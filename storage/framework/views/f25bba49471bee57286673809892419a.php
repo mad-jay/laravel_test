@@ -1,0 +1,1 @@
+POSTS<?php /**PATH C:\Users\admin\Desktop\Advisory Apps\laravel_test\resources\views/posts/index.blade.php ENDPATH**/ ?>
